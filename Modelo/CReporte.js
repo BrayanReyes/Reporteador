@@ -12,7 +12,5 @@ function CReporte (nombre,descripcion,atributos,informacion){
 	this.atributos= atributos;
 	this.informacion= informacion;
 }
-
-//Funciones o parametros a exportar.
+//Exportación de prototipo anonimo
 module.exports=CReporte;
-
